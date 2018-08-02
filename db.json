@@ -6,7 +6,7 @@
         "items": {
             "80250175501": [
                 {
-                    "change_type": "rozpoczecie",
+                    "change_type": "zakonczenie",
                     "company_name": "FIRMA KRAK S.A.",
                     "date": "2018-08-01 00:00:00",
                     "legal_form": "SPÓŁKA AKCYJNA",
