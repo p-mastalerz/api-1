@@ -4,13 +4,13 @@
     },
     "collectKrsChanges": {
         "items": {
-            "81061858706": [
+            "73042317885": [
                 {
                     "change_type": "rozpoczecie",
                     "company_name": "FIRMA KRAK S.A.",
                     "date": "2018-09-01 00:00:00",
                     "legal_form": "SPÓŁKA AKCYJNA",
-                    "nip": "9716333923",
+                    "nip": "3462206223",
                     "pesel": "80250175501",
                     "relation": "prokura"
                 }
