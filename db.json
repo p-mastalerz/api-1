@@ -4,13 +4,13 @@
     },
     "collectKrsChanges": {
         "items": {
-            "74011982987": [
+            "87042372410": [
                 {
                     "change_type": "rozpoczecie",
                     "company_name": "FIRMA KRAK S.A.",
                     "date": "2018-09-01 00:00:00",
                     "legal_form": "SPÓŁKA AKCYJNA",
-                    "nip": " 5589886733",
+                    "nip": " 3446755811",
                     "pesel": "72110894718",
                     "relation": "prokura"
                 },
@@ -19,7 +19,7 @@
                     "company_name": "FIRMA KRAK S.A.",
                     "date": "2018-09-01 00:00:00",
                     "legal_form": "SPÓŁKA AKCYJNA",
-                    "nip": " 5589886733",
+                    "nip": " 3446755811",
                     "pesel": "72110894718",
                     "relation": "prokura"
                 }
